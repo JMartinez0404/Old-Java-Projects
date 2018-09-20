@@ -1,0 +1,1 @@
+The program allows the user to interact with a vending machine. You
